@@ -1,0 +1,6 @@
+@ASP.NET_Core___Generic_Repository_Pattern_HostAddress = http://localhost:5141
+
+GET {{ASP.NET_Core___Generic_Repository_Pattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
